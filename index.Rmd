@@ -1,0 +1,12 @@
+---
+output: html_document
+---
+
+#Noah Rogers
+
+heres my website :)
+___
+```{r, echo=FALSE}
+knitr::include_graphics("./Media/PXL_20231031_024204029.jpg")
+```
+
