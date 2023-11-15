@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-   favicon: "https://noah-k-rogers.github.io/Media/favicon_3.ico"
+   favicon: "Media/favicon_3.ico"
 ---
 
 # Noah Rogers
