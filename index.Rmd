@@ -1,5 +1,7 @@
 ---
-output: html_document
+output:
+  html_document:
+   favicon: "https://noah-k-rogers.github.io/Media/favicon_3.ico"
 ---
 
 # Noah Rogers
@@ -8,7 +10,7 @@ here's my website :)
 
 ___
 
-<link rel="icon"  href="https://noah-k-rogers.github.io/Media/favicon_3.ico">
+
 
 ```{r, echo=FALSE}
 knitr::include_graphics("./Media/PXL_20231031_024204029.jpg")
