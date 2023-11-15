@@ -4,12 +4,17 @@ output: html_document
 
 # Noah Rogers
 
-heres my website :)
+here's my website :)
 
 ___
 
+<link rel="icon"  href="https://noah-k-rogers.github.io/Media/favicon_3.ico">
 
 ```{r, echo=FALSE}
 knitr::include_graphics("./Media/PXL_20231031_024204029.jpg")
 ```
 
+___
+
+
+[test]("./Media/PXL_20231031_024204029.jpg")
