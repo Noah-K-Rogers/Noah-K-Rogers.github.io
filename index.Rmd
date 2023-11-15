@@ -1,7 +1,7 @@
 ---
 output:
   html_document:
-   favicon: "Media/favicon_3.ico"
+    favicon: "https://noah-k-rogers.github.io/Media/favicon_3.ico"
 ---
 
 # Noah Rogers
@@ -17,6 +17,3 @@ knitr::include_graphics("./Media/PXL_20231031_024204029.jpg")
 ```
 
 ___
-
-
-[test]("./Media/PXL_20231031_024204029.jpg")
